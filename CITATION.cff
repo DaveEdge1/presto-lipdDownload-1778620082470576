@@ -1,23 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "The Paleoclimate Reconstruction Storehouse (PReSto) platform"
-type: software
-authors:
-  - family-names: Edge
-    given-names: Dave
-  - family-names: Erb
-    given-names: Michael
-  - family-names: McKay
-    given-names: Nicholas
-  - family-names: Zhu
-    given-names: Feng
-  - family-names: Khider
-    given-names: Deborah
-  - family-names: Emile-Geay
-    given-names: Julien
-  - family-names: Routson
-    given-names: Cody
-doi: 10.5281/zenodo.8274756
-version: alpha-release
-date-released: "2023-08-25"
-url: "https://zenodo.org/record/8274756"
+message: "If you use this reconstruction, please also cite the underlying paleoclimate data sources listed in references.bib (591 publications across 861 datasets) and the lipdverse compilation."
+type: dataset
+title: "LiPD Download 25762337123"
+date-released: 2026-05-12
+url: "https://github.com/DaveEdge1/presto-lipdDownload-1778620082470576"
+identifiers:
+  - type: other
+    value: "25762337123"
+    description: "Presto unique reconstruction ID"
